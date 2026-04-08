@@ -64,8 +64,8 @@ I am a dedicated **Backend Web Developer** with **over 4 years** of professional
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annzmaria&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annzmaria&theme=vue-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annzmaria&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annzmaria&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
