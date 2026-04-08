@@ -1,72 +1,97 @@
-# Ann Maria Tomy | Backend Web Developer 🚀
+# Ann Maria Tomy | Senior Backend Developer 🚀
 
-Experienced Backend Developer focused on building robust, scalable web architectures. I specialize in Core PHP, CodeIgniter, and complex third-party system integrations (APIs, Payment Gateways, CRMs).
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-### 👋 Professional Profile
-Technical and results-driven developer with 6+ years of experience in the full software development lifecycle. Expertise in designing high-performance back-ends and optimizing database schemas for enterprise applications. I bridge the gap between complex business logic and efficient, secure technical execution.
+### 👋 About Me
+I am a dedicated **Backend Web Developer** with **over 4 years** of professional experience in engineering scalable modern architectures. My expertise lies in delivering robust web systems, designing high-performance backends, and implementing secure API integrations for enterprise-level applications.
 
-* 📍 **Location:** Sharjah, UAE
-* 🛠️ **Current Focus:** Enterprise-level PHP Architecture & System Security
-* 📈 **Impact:** Consistently reducing system failure rates and improving delivery timelines through modular code design.
+- 📍 Based in **Sharjah, UAE**
+- 🔭 Currently focusing on **Enterprise-level PHP Architectures**
+- 🌱 Learning **Advanced Cloud Architectures & DevOps**
+- 💬 Ask me about **PHP, API Intergations, and Database Optimization**
 
 ---
 
 ### 🛠 Technical Expertise
 
-*   **Backend:** Core PHP, CodeIgniter, RESTful APIs, SOAP Services, WSDL
-*   **Database:** MySQL, PostgreSQL (Query Optimization, Database Schema Design)
-*   **Frontend:** JavaScript (ES6+), jQuery, AJAX, CSS3, HTML5
-*   **CMS:** WordPress (Custom Theme/Plugin Development, Advanced Custom Fields)
-*   **Integrations:** Payment Gateways, Travel APIs, CRM Systems, SAP Integrations
-*   **Tools:** Git, GitHub, Linux Server Management, Technical SEO
+- **Backend:** Core PHP, CodeIgniter, RESTful APIs, SOAP Services
+- **Database:** MySQL, PostgreSQL (Optimization & Modern Schema Design)
+- **Frontend Integration:** AJAX, jQuery, JavaScript, CSS3/HTML5
+- **CMS:** WordPress (Custom Theme & Plugin Development)
+- **Security:** Industry-standard protocols, Technical SEO, System Audits
+- **Tools:** Git, GitHub, WSDL, Payment Gateways
 
 ---
 
 ### 💼 Professional Journey
 
-**IT Officer** | Nabih Elias Azzam Engineering Services LLC  
-*Mar 2022 – Present*
-*   Managing core engineering service systems and infrastructure within the UAE.
-*   Spearheading internal tool development to streamline engineering workflows and data accuracy.
+#### **IT Officer** @ Nabih Elias Azzam Engineering Services LLC
+*Mar 2022 - Present | United Arab Emirates*
+- Leading technical initiatives and managing complex engineering service systems.
 
-**Web Developer (Freelance)** | WebBees  
-*Feb 2019 – Sep 2021*
-*   Engineered pixel-perfect, custom web applications for 15+ global clients.
-*   Reduced project delivery times by 20% by implementing reusable PHP modules and standardizing Git workflows.
+#### **Freelance Web Developer** @ WebBees
+*Feb 2019 - Sep 2021*
+- Delivered pixel-perfect web solutions for diverse global clients.
+- Specialized in full-stack development and custom CMS implementations.
 
-**PHP Developer** | TECHSOFT WEB SOLUTIONS  
-*Nov 2016 – Dec 2018*
-*   Built and maintained complex booking systems, integrating flight and bus booking APIs.
-*   Collaborated on custom WordPress architectures involving advanced post types and logic-heavy themes.
-*   Optimized database queries, contributing to a 70% reduction in system failure rates for client applications.
+#### **PHP Developer** @ TECHSOFT WEB SOLUTIONS
+*Nov 2016 - Dec 2018 | Ernakulam, Kerala, India*
+- Focused on backend development, PHP architecture, and web systems optimization.
 
 ---
 
 ### 🚀 Selected Works
 
-*   **[Family Lawyers](https://www.familylawyers.in/)**: A specialized legal consultancy platform built with Core PHP and MySQL, focusing on secure data handling.
-*   **[CG Evermotion](http://www.cgevermotion.com/)**: A studio portfolio with a custom CMS built on CodeIgniter to handle heavy media assets efficiently.
-*   **[V10 Real Estate](https://v10realestate.com/)**: Property management system featuring complex API integrations and automated SEO indexing.
-*   **[Silver Kitchen](http://silverkitchen.ie/)**: Modular food service platform with a custom backend designed for high-traffic scalability.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Family Lawyers](https://www.familylawyers.in/)** | Specialized Legal Consultancy Platform | PHP, MySQL |
+| **[CG Evermotion](http://www.cgevermotion.com/)** | Creative Studio Portfolio & CMS | CodeIgniter, jQuery |
+| **[V10 Real Estate](https://v10realestate.com/)** | Property Management & Listings | API Integration, SEO |
+| **[Silver Kitchen](http://silverkitchen.ie/)** | Hospitality & Food Service Platform | PHP, Custom CMS |
 
 ---
 
-### 📂 Professional Repository Naming Tips
-To make your profile look like a senior architect, consider these naming conventions for your future projects:
-*   `php-core-booking-engine` (instead of `booking-system`)
-*   `real-estate-api-integration` (instead of `v10-realestate`)
-*   `wp-custom-framework-v1` (instead of `custom-theme`)
+### 📈 GitHub Stats
+<div align="center">
+
+| Total Contributions | Current Streak | Repositories |
+| :---: | :---: | :---: |
+| **76+** | **1 🔥** | **10+** |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=annzmaria&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 ### 📫 Connect With Me
-*   **LinkedIn:** [linkedin.com/in/annmariatomy](https://www.linkedin.com/in/annmariatomy)
-*   **Email:** [ann08maria@gmail.com](mailto:ann08maria@gmail.com)
-*   **Mobile:** +971 58 615 5418
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/annmariatomy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ann08maria@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+971586155418">
+    <img src="https://img.shields.io/badge/Call%20Us-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+</div>
 
 ---
+
 <div align="center">
-  <sub>© 2026 Ann Maria Tomy | Engineering for Performance and Security</sub>
+  <p>Built with ❤️ by Ann Maria Tomy</p>
+  <sub>Copyright &copy; 2024 - All Rights Reserved</sub>
 </div>
